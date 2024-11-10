@@ -1,16 +1,19 @@
-## Hi there 👋
+## Olá, sou Guilherme Moraes 👋
 
-<!--
-**guighm/guighm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Graduando em Engenharia de Computação pela Universidade do Estado do Amazonas. Gosto de aprender novas tecnologias e explorar as diferentes áreas da TI;
+- 😄 Meus pronomes: ele/dele
+- ⚡ Atualmente, tenho experiência nas seguintes áreas:
 
-Here are some ideas to get you started:
+⚫Sistemas Digitais: Verilog;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚪Programação em Baixo Nível: C, C++;
+
+🟢Back-end: Java, Spring Boot, Node.js, NestJS, Golang, Rust;
+
+🔵Front-end: HTML, CSS, JavaScript, TypeScript, Angular, React, Next.js;
+
+🟢Banco de dados: MySQL, PostgreSQL, MongoDB;
+
+🔴DevOps: Docker, Kubernetes, Linux, Git, GitHub;
+
+🟢IA: Python, pandas, scikit-learn;
