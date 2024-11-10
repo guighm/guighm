@@ -1,7 +1,7 @@
 ## Olá, sou Guilherme Moraes 👋
 
 - 🔭 Graduando em Engenharia de Computação pela Universidade do Estado do Amazonas. Gosto de aprender novas tecnologias e explorar as diferentes áreas da TI;
-- 😄 Meus pronomes: ele/dele
+- 😄 Meus pronomes: ele/dele;
 - ⚡ Atualmente, tenho experiência nas seguintes áreas:
 
 ⚫Sistemas Digitais: Verilog;
