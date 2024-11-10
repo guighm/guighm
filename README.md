@@ -24,3 +24,10 @@
 
 ### 🟢 **IA**
 - Python, pandas, scikit-learn;
+
+<br>
+
+<div display="flex">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guighm&theme=outrun">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guighm&layout=compact&theme=outrun">
+</div>
