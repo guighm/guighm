@@ -7,8 +7,8 @@
 |Área|Competências|
 |-|-|
 |⚫ **Sistemas Digitais** |Verilog|
-|⚪ **Programação em Baixo Nível**|C, C++|
-|🟢 **Back-end**|Java, Spring Boot, Node.js, NestJS, Golang, Rust|
+|⚪ **Programação em Baixo Nível**|C, C++, Rust|
+|🟢 **Back-end**|Java, Spring Boot, Node.js, NestJS, Golang|
 |🔵 **Front-end**|HTML, CSS, JavaScript, TypeScript, Angular, React, Next.js|
 |🟢 **Banco de dados**|MySQL, PostgreSQL, MongoDB|
 |🔴 **DevOps**|Docker, Kubernetes, Linux, Git, GitHub|
