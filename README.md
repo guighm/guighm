@@ -35,9 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40px"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-<br>
 <hr>
-<br>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guighm&theme=outrun">
