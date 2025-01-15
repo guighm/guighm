@@ -4,7 +4,7 @@
 
 - 😄 Meus pronomes são **ele/dele**;
 
-- 🔵 Tenho experiência em Desenvolvimento Web;
+- 🔵 Tenho experiência em Desenvolvimento Web e MLOps;
 
 - 🟢 Sou entusiasta da IA e da Programação em Baixo Nível;
 
