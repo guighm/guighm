@@ -4,11 +4,9 @@
 
 - 😄 Meus pronomes são **ele/dele**;
 
-- 🔵 Tenho experiência em Desenvolvimento Web e MLOps;
+- 🔵 Tenho experiência em Desenvolvimento Web e Mobile;
 
 - 🟢 Sou entusiasta da IA e da Programação em Baixo Nível;
-
-- 🔴 Gosto de aprender novas linguagens de programação;
 
 <h2>⚡ Linguagens de Programação</h2>
   
@@ -20,8 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40px"/>
 </div>
 
 <h2>⚡ Ferramentas e Tecnologias</h2>
