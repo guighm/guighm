@@ -10,7 +10,7 @@
 
 <h2>⚡ Meu Portfólio</h2>
   
-[Clique aqui!](https://portfolio-beryl-alpha-14.vercel.app/) 😀
+🔷 [Clique aqui!](https://portfolio-beryl-alpha-14.vercel.app/) 😀
 
 <h2>⚡ Meus Contatos</h2>
 
