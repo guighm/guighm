@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1>Olá, sou Guilherme Moraes 👋</h1>
 
-<!--
-**guighm/guighm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Graduando em Engenharia de Computação pela Universidade do Estado do Amazonas;
 
-Here are some ideas to get you started:
+- 😄 Meus pronomes são **ele/dele**;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔵 Tenho experiência em Desenvolvimento Web e Mobile;
+
+- 🟢 Sou entusiasta da IA e da Programação em Baixo Nível;
+
+<h2>⚡ Meu Portfólio</h2>
+  
+[Clique aqui!](https://portfolio-beryl-alpha-14.vercel.app/) 😀
+
+<h2>⚡ Meus Contatos</h2>
+
+<div>
+  
+  📧 E-mail: [ggm.eng23@uea.edu.br](mailto:ggm.eng23@uea.edu.br)
+  
+  🟦 LinkedIn: [Guilherme Moraes](https://www.linkedin.com/in/guighm/)
+  
+</div>
+
+
+
+<hr>
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guighm&theme=neon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guighm&layout=compact&theme=neon">
+</div>
