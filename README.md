@@ -28,5 +28,5 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guighm&theme=neon&cache_seconds=30">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guighm&layout=compact&theme=neon&cache_seconds=30&langs_count=5">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guighm&layout=compact&theme=neon&cache_seconds=30&langs_count=6">
 </div>
