@@ -16,7 +16,7 @@
 
 <div>
   
-  📧 E-mail: [ggm.eng23@uea.edu.br](mailto:ggm.eng23@uea.edu.br)
+  📧 E-mail: [guighm.dev@proton.me](mailto:guighm.dev@proton.me)
   
   🟦 LinkedIn: [Guilherme Moraes](https://www.linkedin.com/in/guighm/)
   
