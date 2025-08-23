@@ -1,5 +1,6 @@
 <h1>Olá, sou Guilherme Moraes 👋</h1>
 <img align="right" width="200" height="200" alt="ATJ18aW9Ukrgfr2DNcgz2" src="https://github.com/user-attachments/assets/d1f7095b-a880-49d3-915c-85910fa1e70c" />
+<br/>
 
 - 🔭 Graduando em Engenharia de Computação pela Universidade do Estado do Amazonas;
 
