@@ -24,13 +24,13 @@
   🟦 LinkedIn: [Guilherme Moraes](https://www.linkedin.com/in/guighm/)
   
 </div>
+  <p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,vue,flutter,nodejs,nestjs,cs,dotnet,java,spring,linux&perline=5"/>
+    </a>
+  </p>
 
-
-
-<hr>
-
-  <img src="https://skillicons.dev/icons?i=react,vue,flutter,nodejs,nestjs,cs,dotnet,java,spring,linux&perline=5"/>
-  
+<hr/>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guighm&theme=neon&cache_seconds=30">
 </div>
