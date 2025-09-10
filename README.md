@@ -29,7 +29,7 @@
 
 <hr>
 
-  <img src="https://skillicons.dev/icons?i=linux,nodejs,cs,java,dart,react,vue"/>
+  <img src="https://skillicons.dev/icons?i=react,vue,flutter,nodejs,nestjs,cs,dotnet,java,spring,linux&perline=5"/>
   
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guighm&theme=neon&cache_seconds=30">
