@@ -10,17 +10,18 @@
 - 🟢 Sou entusiasta da IA e da Programação em Baixo Nível;
 
 <br/>
-<h2>⚡ Meu Portfólio</h2>
-  
-🔷 [Clique aqui para visitá-lo!](https://portfolio-beryl-alpha-14.vercel.app/) 😀
 
-<h2>⚡ Meus Contatos</h2>
+### Portfólio:
+  
+- [Clique aqui para visitá-lo!](https://portfolio-beryl-alpha-14.vercel.app/) 😀
+
+### Contatos:
 
 <div>
   
-  📧 E-mail: [guighm.dev@proton.me](mailto:guighm.dev@proton.me)
+  - **E-mail**: [guighm.dev@proton.me](mailto:guighm.dev@proton.me)
   
-  🟦 LinkedIn: [Guilherme Moraes](https://www.linkedin.com/in/guighm/)
+  - **LinkedIn**: [Guilherme Moraes](https://www.linkedin.com/in/guighm/)
   
 </div>
 
