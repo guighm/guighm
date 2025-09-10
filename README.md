@@ -1,15 +1,12 @@
-<h1>Olá, sou Guilherme Moraes 👋</h1>
-<br/>
+# Guilherme Moraes
 
-- 🔭 Graduando em Engenharia de Computação pela Universidade do Estado do Amazonas;
+- Graduando em Engenharia de Computação pela Universidade do Estado do Amazonas;
 
-- 😄 Meus pronomes são **ele/dele**;
+- Meus pronomes são **ele/dele**;
 
-- 🔵 Tenho experiência em Desenvolvimento Web e Mobile;
+- Tenho experiência em Desenvolvimento Web e Mobile;
 
-- 🟢 Sou entusiasta da IA e da Programação em Baixo Nível;
-
-<br/>
+- Sou entusiasta da IA e da Programação em Baixo Nível;
 
 ### Portfólio:
   
@@ -19,9 +16,9 @@
 
 <div>
   
-  - **E-mail**: [guighm.dev@proton.me](mailto:guighm.dev@proton.me)
+📧 [**E-mail**](mailto:guighm.dev@proton.me)
   
-  - **LinkedIn**: [Guilherme Moraes](https://www.linkedin.com/in/guighm/)
+<a href="https://www.linkedin.com/in/guighm/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
   
 </div>
 
