@@ -16,18 +16,18 @@
 
 <div>
   
-📧 [**E-mail**](mailto:guighm.dev@proton.me)
-  
-<a href="https://www.linkedin.com/in/guighm/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:guighm.dev@proton.me">
+  <img height="45" alt="image" src="https://github.com/user-attachments/assets/4074c055-a6da-4e30-ae2c-4defc36194d0" />
+</a>
+
+<a href="https://www.linkedin.com/in/guighm/">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
   
 </div>
 
+
 <div style="display: flex; gap: 20px;">
-  <!--
-  <div>
-    <img width="200" height="200" alt="ATJ18aW9Ukrgfr2DNcgz2" src="https://github.com/user-attachments/assets/d1f7095b-a880-49d3-915c-85910fa1e70c" />
-  </div>
-  -->
   
   <div>
   <p align="center">
