@@ -32,7 +32,7 @@
   <div>
   <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,vue,flutter,nodejs,nestjs,cs,dotnet,java,spring,linux&perline=5"/>
+        <img src="https://skillicons.dev/icons?i=flutter,react,vue,nodejs,dotnet,linux"/>
     </a>
   </p> 
   </div>
