@@ -10,27 +10,17 @@
 
 ### Portfólio:
 
-<a href="https://portfolio-beryl-alpha-14.vercel.app/" target="_blank">
-  <img alt="Static Badge" src="https://img.shields.io/badge/portf%C3%B3lio-black?style=for-the-badge">
-</a>
+[<img alt="Static Badge" src="https://img.shields.io/badge/portf%C3%B3lio-black?style=for-the-badge">](https://portfolio-beryl-alpha-14.vercel.app/)
 
 ### Contatos:
   
-<a href="mailto:guighm.dev@proton.me">
-  <img alt="Static Badge" src="https://img.shields.io/badge/ENVIE--ME_UM_E--MAIL-%23B00FDB?style=for-the-badge">
-</a>
+[<img alt="Static Badge" src="https://img.shields.io/badge/ENVIE--ME_UM_E--MAIL-%23B00FDB?style=for-the-badge">](mailto:guighm.dev@proton.me)
 
-<br/>
-
-<a href="https://www.linkedin.com/in/guighm/" target="_blank">
-  <img alt="Static Badge" src="https://img.shields.io/badge/VISITE_O_MEU_LINKEDIN-%230F76DB?style=for-the-badge">
-</a>
+[<img alt="Static Badge" src="https://img.shields.io/badge/VISITE_O_MEU_LINKEDIN-%230F76DB?style=for-the-badge">](https://www.linkedin.com/in/guighm/)
 
 ### Ferramentas e Tecnologias:
 
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,flutter,nodejs,dotnet,linux"/>
-</a>
+[<img src="https://skillicons.dev/icons?i=react,vue,flutter,nodejs,dotnet,linux"/>](https://skillicons.dev)
 
 <hr/>
 
