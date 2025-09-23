@@ -16,7 +16,7 @@
   
 <img height="45" src="https://img.shields.io/badge/ENVIE--ME_UM_E--MAIL-%23B00FDB?style=for-the-badge&link=mailto%3Aguighm.dev%40proton.me" />
 
-<img height="45" src="https://img.shields.io/badge/VISITE_O_MEU_LINKEDIN-%230F76DB?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fguighm%2F" />
+<img alt="Static Badge" src="https://img.shields.io/badge/VISITE_O_MEU_LINKEDIN-%230F76DB?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fguighm%2F">
     
 ### Ferramentas e Tecnologias:
 
