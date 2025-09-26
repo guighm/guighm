@@ -11,13 +11,12 @@
 ### Portfólio:
 
 [<img alt="Static Badge" src="https://img.shields.io/badge/portf%C3%B3lio-black?style=for-the-badge">](https://portfolio-beryl-alpha-14.vercel.app/)
-
-### Contatos:
+ 
+### Contatos: 
   
-[<img alt="Static Badge" src="https://img.shields.io/badge/ENVIE--ME_UM_E--MAIL-%23B00FDB?style=for-the-badge">](mailto:guighm.dev@proton.me)
-
-[<img alt="Static Badge" src="https://img.shields.io/badge/VISITE_O_MEU_LINKEDIN-%230F76DB?style=for-the-badge">](https://www.linkedin.com/in/guighm/)
-
+[<img alt="Static Badge" src="https://img.shields.io/badge/E--MAIL-%23B00FDB?style=for-the-badge">](mailto:guighm.dev@proton.me)
+[<img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-%230F76DB?style=for-the-badge">](https://www.linkedin.com/in/guighm/)
+    
 ### Ferramentas e Tecnologias:
 
 [<img src="https://skillicons.dev/icons?i=react,vue,flutter,nodejs,dotnet,linux"/>](https://skillicons.dev)
