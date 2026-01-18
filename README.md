@@ -19,10 +19,4 @@
     
 ### Ferramentas e Tecnologias:
 
-[<img src="https://skillicons.dev/icons?i=react,flutter,nodejs,dotnet,spring,arch"/>](https://skillicons.dev)
-
-<hr/>
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guighm&theme=neon&cache_seconds=30">
-</div>
+[<img src="https://skillicons.dev/icons?i=react,nodejs,dotnet,spring,arch"/>](https://skillicons.dev)
