@@ -19,4 +19,4 @@
     
 ### Ferramentas e Tecnologias:
 
-[<img src="https://skillicons.dev/icons?i=react,nodejs,dotnet,spring,arch"/>](https://skillicons.dev)
+[<img src="https://skillicons.dev/icons?i=py,react,nodejs,dotnet,spring,arch"/>](https://skillicons.dev)
